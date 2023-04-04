@@ -1,13 +1,4 @@
 - 👋 Hi, I’m @DevBennyturtle
-- 👀 I’m interested in CS and electrical engineering
-- 🌱 I’m currently learning CPU design and working with FPGA's
-- 📫 How to reach me: benr.code@gmail.com OR Bennyturtle#2468
-
-- Current Projects:
-  - DIY Drone Controller
-  - PyAirplay
-  - Arduino in a ODD
-
 
 
 <!---
